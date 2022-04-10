@@ -8,7 +8,7 @@ This is a sample project that searches through NBA player heights based on user 
 The application asks for an integer input and print a list of all pairs of players whose height in inches adds up to that target. If no matches are found, the application will print "No matches found"
 	
 ## Technologies
-Project is created in python and uses the requests and collections modules:
+Project is created in python and uses the requests and collections modules.
 
 	
 ## Setup
